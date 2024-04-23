@@ -1,3 +1,3 @@
-# full_adder-8-bit
+# Full_adder-8-bit
 
 
